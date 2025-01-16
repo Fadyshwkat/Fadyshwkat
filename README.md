@@ -5,10 +5,12 @@ Hi there! I'm Fady Shwkat, a passionate Front-End Developer with a strong intere
 Languages & Frameworks: HTML, CSS, JavaScript, React, Angular , Tailwind , Bootstrap , JQuery.
 Tools: Git, VS Code, Figma.
 Soft Skills: Problem-solving, collaboration, attention to detail
+
 🚀 Career Highlights
 Built responsive and dynamic web applications that improve user experiences
 Worked on Portfolio web applications . food recipes . weather forecast and E-commerce web applications .
 Continuously learning and experimenting with modern technologies
+
 🎯 Current Goals
 Expand my knowledge in full-stack development
 Contribute to open-source projects
