@@ -20,4 +20,5 @@ Build scalable and efficient software solutions
 Feel free to reach out:
 
 LinkedIn: fadyshwkat (https://linkedin.com/in/fadyshwkat)
+
 Email: fadyshwkat@outlook.com 
